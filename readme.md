@@ -1,1 +1,1 @@
-I am learing c language
+I want to learn c language
