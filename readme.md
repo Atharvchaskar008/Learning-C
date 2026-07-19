@@ -1,1 +1,1 @@
-I am enjoying programming
+C for academics and programming
